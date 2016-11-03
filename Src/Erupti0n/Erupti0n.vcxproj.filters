@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien\Interface">
+      <UniqueIdentifier>{61abf33b-d071-4b36-a252-d89ea935c288}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Window">
+      <UniqueIdentifier>{52b62679-8985-4e2d-9790-b5d298a28d20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Interfaces">
+      <UniqueIdentifier>{8c5f0032-514d-4562-befb-7311b5b77f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Window">
+      <UniqueIdentifier>{c2150121-3a37-4f1f-9e5b-00e53d8a2ecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Vulkan">
+      <UniqueIdentifier>{4ca274cc-b0f8-4259-8da8-d7a60b17ed56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Vulkan">
+      <UniqueIdentifier>{f4078b7e-08aa-4ffe-a21d-9df745ff76b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Content">
+      <UniqueIdentifier>{4ce79915-d794-4082-958a-28c7b9138a15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Content">
+      <UniqueIdentifier>{9c8c6685-bbc5-4f82-92e0-bd79177c0ded}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Utilities">
+      <UniqueIdentifier>{3a160db5-3a8b-4070-8c1e-482a5d022168}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{7278992b-e0d3-44aa-aafb-8403267d9004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Rendering">
+      <UniqueIdentifier>{461658a5-24a3-46bb-a40d-586c334c6193}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CCore.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\IWindow.cpp">
+      <Filter>Quelldateien\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CWindowWin32.cpp">
+      <Filter>Quelldateien\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Vulkan\CVulkanSwapChain.cpp">
+      <Filter>Quelldateien\Vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Content\CFileloader.cpp">
+      <Filter>Quelldateien\Content</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CGraphics.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CRenderer.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Content\SCContentManager.cpp">
+      <Filter>Quelldateien\Content</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Vulkan\CVulkanBufferBase.cpp">
+      <Filter>Quelldateien\Vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Vulkan\CVulkanImage.cpp">
+      <Filter>Quelldateien\Vulkan</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\CCore.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Utilities.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Interfaces\IWindow.h">
+      <Filter>Headerdateien\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CWindowWin32.h">
+      <Filter>Headerdateien\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CGraphics.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Shared.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Platform.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Vulkan\CVulkanSwapChain.h">
+      <Filter>Headerdateien\Vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CRenderer.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Content\CFileloader.h">
+      <Filter>Headerdateien\Content</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Content\SCContentManager.h">
+      <Filter>Headerdateien\Content</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Utilities\TSingleton.hpp">
+      <Filter>Headerdateien\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Utilities\TAutoDeleter.h">
+      <Filter>Headerdateien\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CMesh.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Vulkan\CVulkanVirtualFrame.h">
+      <Filter>Headerdateien\Vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Vulkan\CVulkanBufferBase.h">
+      <Filter>Headerdateien\Vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Utilities\LibjpegHelper.h">
+      <Filter>Headerdateien\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Vulkan\CVulkanImage.h">
+      <Filter>Headerdateien\Vulkan</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\Shader\shader.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Src\Shader\shader.vert">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,105 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  D:\Programming\C++\Erupti0n\Src\Erupti0n\Src\Shader\shader.frag
+  Warning, version 450 is not yet complete; most version-specific features are present, but some are missing.
+  
+  
+  Linked fragment stage:
+  
+  
+  D:\Programming\C++\Erupti0n\Src\Erupti0n\Src\Shader\shader.vert
+  Warning, version 450 is not yet complete; most version-specific features are present, but some are missing.
+  
+  
+  Linked vertex stage:
+  
+  
+  Drücken Sie eine beliebige Taste . . . 
+  CVulkanSwapChain.cpp
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanswapchain.cpp(59): warning C4553: "==": Operator hat keine Auswirkungen; ist "=" beabsichtigt?
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanswapchain.cpp(61): warning C4553: "==": Operator hat keine Auswirkungen; ist "=" beabsichtigt?
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanswapchain.cpp(64): warning C4553: "==": Operator hat keine Auswirkungen; ist "=" beabsichtigt?
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanswapchain.cpp(66): warning C4553: "==": Operator hat keine Auswirkungen; ist "=" beabsichtigt?
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanswapchain.cpp(90): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanswapchain.cpp(131): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  CVulkanImage.cpp
+d:\programming\c++\erupti0n\src\erupti0n\include\vulkan\cvulkanimage.h(57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanimage.cpp(58): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanimage.cpp(96): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+  CVulkanBufferBase.cpp
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanbufferbase.cpp(12): warning C4244: "=": Konvertierung von "VkDeviceSize" in "uint32_t", möglicher Datenverlust
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanbufferbase.cpp(26): warning C4101: "sbmr": Unreferenzierte lokale Variable
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanbufferbase.cpp(108): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  main.cpp
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(20): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(21): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\vulkan\cvulkanimage.h(57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\sccontentmanager.h(37): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+  IWindow.cpp
+d:\programming\c++\erupti0n\src\erupti0n\src\iwindow.cpp(38): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  CWindowWin32.cpp
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(20): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(21): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\vulkan\cvulkanimage.h(57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\sccontentmanager.h(37): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\src\cwindowwin32.cpp(46): warning C4800: "ATOM": Variable wird auf booleschen Wert ("True" oder "False") gesetzt (Auswirkungen auf Leistungsverhalten möglich)
+d:\programming\c++\erupti0n\src\erupti0n\src\cwindowwin32.cpp(206): warning C4244: "Argument": Konvertierung von "WPARAM" in "unsigned int", möglicher Datenverlust
+  CRenderer.cpp
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(20): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(21): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\vulkan\cvulkanimage.h(57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\sccontentmanager.h(37): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(32): warning C4305: "+=": Verkürzung von "double" in "float"
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(118): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(118): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(135): warning C4244: "=": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(136): warning C4244: "=": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(201): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "Erupti0n::RenderUnitHandle", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(208): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(214): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(237): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(238): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(278): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(308): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(405): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(423): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(468): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(476): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(478): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(498): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(559): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(591): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+d:\programming\c++\erupti0n\src\erupti0n\src\crenderer.cpp(609): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  SCContentManager.cpp
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(20): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(21): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\vulkan\cvulkanimage.h(57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\sccontentmanager.h(37): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\src\content\sccontentmanager.cpp(13): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+  CFileloader.cpp
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(20): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(21): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\src\content\cfileloader.cpp(25): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\src\content\cfileloader.cpp(48): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\src\content\cfileloader.cpp(94): warning C4101: "space": Unreferenzierte lokale Variable
+d:\programming\c++\erupti0n\src\erupti0n\src\content\cfileloader.cpp(93): warning C4101: "type": Unreferenzierte lokale Variable
+d:\programming\c++\erupti0n\src\erupti0n\src\content\cfileloader.cpp(55): warning C4101: "rc": Unreferenzierte lokale Variable
+d:\programming\c++\erupti0n\src\erupti0n\src\content\cfileloader.cpp(107): warning C4101: "buffer": Unreferenzierte lokale Variable
+  CGraphics.cpp
+  CCore.cpp
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(20): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\cfileloader.h(21): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\vulkan\cvulkanimage.h(57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\include\content\sccontentmanager.h(37): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+d:\programming\c++\erupti0n\src\erupti0n\src\ccore.cpp(124): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Code wird generiert...
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanbufferbase.cpp(115): warning C4715: "Erupti0n::CVulkanBufferBase::FindMemoryType": Nicht alle Steuerelementpfade geben einen Wert zurück.
+d:\programming\c++\erupti0n\src\erupti0n\src\vulkan\cvulkanimage.cpp(65): warning C4715: "Erupti0n::CVulkanImage::FindMemoryType": Nicht alle Steuerelementpfade geben einen Wert zurück.
+  jpeg.lib(jerror.obj) : Es wurde ein mit /GL kompiliertes MSIL .netmodule oder module gefunden. Verknüpfung wird mit /LTCG erneut gestartet. Fügen Sie /LTCG zur Linkbefehlszeile hinzu, um die Linkerleistung zu erhöhen.
+LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /LTCG ignoriert.
+CCore.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /OPT:LBR ignoriert.
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  Erupti0n.vcxproj -> D:\Programming\C++\Erupti0n\\build\Debug\x64\Erupti0n.x64.Debug.exe
+  Erupti0n.vcxproj -> D:\Programming\C++\Erupti0n\\build\Debug\x64\Erupti0n.x64.Debug.pdb (Partial PDB)
